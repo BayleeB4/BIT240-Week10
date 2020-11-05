@@ -1,0 +1,73 @@
+html,
+body {
+    text-align: center;
+    height: 100%;
+    background: linear-gradient(to top right, #c69cf4, #654ea3);
+    font-family: 'Gothic A1', sans-serif;
+}
+
+.panel-body {
+    background: #f2d9d8;
+    border-radius: 4px;
+    box-shadow: 0px 0px 25px #666;
+}
+
+/*******GAME********/
+
+#timer {
+    font-size: 26px;
+}
+
+.btn {
+    box-shadow: 0px 0px 25px #c0c0c0;
+    border-radius: 2px;
+}
+
+.bops {
+    display: none;
+}
+
+.pulls {
+    display: none;
+}
+
+.twists {
+    display: none;
+}
+
+.losing {
+    display: none;
+}
+
+.timeout {
+    display: none;
+}
+
+.score {
+    font-size: 20px;
+}
+
+.game-buttons {
+    text-align: center;
+}
+
+.btn-lg {
+    padding: 10px 10px;
+}
+
+.btn {
+    white-space: normal;
+}
+
+button {
+    width: 19vw;
+}
+
+.hotkeys {
+    text-align: left;
+}
+
+.row {
+    text-align: center
+}
+}
